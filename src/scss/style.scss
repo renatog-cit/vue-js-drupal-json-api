@@ -1,0 +1,11 @@
+@import 'partials/variables';
+@import '../../node_modules/bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+@import 'partials/fontawesome';
+
+body {
+  font-family: 'Roboto', sans-serif;
+  ul {
+    padding-inline-start: 0px;
+  }
+}
